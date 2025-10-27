@@ -1,1 +1,9 @@
+<<<<<<< HEAD
 boof
+=======
+commit 1
+commit 2
+This is a new branch
+>>>>>>> parent of ccd6451 (conflict solved)
+
+Solved thing
